@@ -1,2 +1,0 @@
-input=light
-if
