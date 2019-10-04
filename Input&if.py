@@ -1,0 +1,2 @@
+input=light
+if
